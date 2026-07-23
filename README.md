@@ -7,11 +7,6 @@ Building scalable web applications with modern technologies.<br/>
 Passionate about Backend Development, AI, and creating impactful digital experiences.
 </p>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=social" />
-</p>
-
 </div>
 
 ---
@@ -22,7 +17,7 @@ Passionate about Backend Development, AI, and creating impactful digital experie
 const atif = {
     location: "India 🇮🇳",
     role: "MERN Stack Developer",
-    education: "B.Tech CSE",
+    education: "B.Tech CSD",
     currentlyLearning: [
         "System Design",
         "AI",
@@ -109,15 +104,15 @@ Modern portfolio showcasing projects, skills and experience.
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammad-atifuddin-139774217/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:uddinatif34@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Atif-uddin">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
