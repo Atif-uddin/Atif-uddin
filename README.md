@@ -1,78 +1,136 @@
-# Hi 👋, I'm Mohammad Atifuddin
+<div align="center">
 
-### 🚀 MERN Stack Web Developer | Full-Stack Developer | AI Enthusiast
+#  Hi, I'm Mohammad Atifuddin
 
-I'm a passionate Full-Stack Web Developer who enjoys building scalable, responsive, and user-friendly web applications. I specialize in the MERN Stack and continuously explore modern technologies and AI-powered development to create impactful digital solutions.
+<p>
+Building scalable web applications with modern technologies.<br/>
+Passionate about Backend Development, AI, and creating impactful digital experiences.
+</p>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=social" />
+</p>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+#  About Me
 
-- 💻 MERN Stack Web Developer
-- 🌱 Currently learning AI-powered Full-Stack Development
-- 🚀 Passionate about building real-world web applications
-- 🔥 Interested in Backend Development, APIs & System Design
-- 🤝 Open to Freelance, Internship & Full-Time Opportunities
-- 📍 India
+```javascript
+const atif = {
+    location: "India 🇮🇳",
+    role: "MERN Stack Developer",
+    education: "B.Tech CSE",
+    currentlyLearning: [
+        "System Design",
+        "AI",
+        "Docker",
+        "Cloud"
+    ],
+    interests: [
+        "Backend Development",
+        "Open Source",
+        "Web Applications",
+        "Problem Solving"
+    ],
+    lookingFor: [
+        "Full-Time Opportunities",
+        "Freelance Projects",
+        "Collaborations"
+    ]
+}
+```
 
 ---
 
-## 🛠️ Tech Stack
+#  Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css)
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
+</p>
 
 ### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,python,c" />
+</p>
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
 </p>
 
 ---
 
-## 🌟 Featured Skills
+#  Current Focus
 
-- MERN Stack Development
-- REST API Development
-- Authentication & Authorization
-- JWT
-- MongoDB
-- Responsive UI
-- Backend Development
-- Full-Stack Projects
+- 🌱 Building Full Stack MERN Applications
+- 🤖 Exploring AI & Agentic AI
+- ⚙️ Designing Scalable Backend Systems
+- 📚 Learning System Design
+- 🚀 Open Source Contributions
 
 ---
 
-## 📫 Connect With Me
+#  Featured Projects
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 📧 Email: your@email.com
-- 🌐 Portfolio: https://yourportfolio.com
+### 🛒 E-Commerce Platform
+Modern MERN e-commerce platform with authentication, cart, wishlist and admin dashboard.
 
 ---
 
-### ⭐ "Building ideas into scalable web applications, one commit at a time."
+### 🔗 URL Shortener
+JWT Authentication, Analytics Dashboard, QR Code Support and Secure APIs.
+
+---
+
+### 🎓 Webinar Registration System
+Lead management platform with role-based dashboards and registration tracking.
+
+---
+
+### 🌐 Personal Portfolio
+Modern portfolio showcasing projects, skills and experience.
+
+---
+
+#  Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+##  Quote
+
+*"Consistency beats talent when talent doesn't stay consistent."*
+
+ Thanks for visiting my profile!
+
+</div>
