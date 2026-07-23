@@ -104,7 +104,7 @@ Modern portfolio showcasing projects, skills and experience.
 
 <p align="center">
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammad-atifuddin-139774217/">
+<a href="https://www.linkedin.com/in/mohammad-atifuddin-139774217/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
